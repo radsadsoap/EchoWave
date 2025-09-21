@@ -2,6 +2,9 @@
 
 **Real-time Chat Application with Modern Web Technologies**
 
+<img width="1919" height="985" alt="Screenshot 2025-09-21 173854" src="https://github.com/user-attachments/assets/86da8924-b144-436c-bd11-5a8e95a06049" />
+
+
 EchoWave is a full-featured, real-time chat application that enables users to create and join chat rooms, communicate instantly, and manage their online presence. Built with modern web technologies, it offers both Google authentication and guest access for seamless user onboarding.
 
 ## ✨ Features
